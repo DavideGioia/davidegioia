@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/dQXAn2B.png"/>
+<img src="https://i.imgur.com/VlFqCk6.png"/>
 
 
 ### Hi there, I'm Davide 👋
