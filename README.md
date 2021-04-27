@@ -1,3 +1,6 @@
+<img src="https://i.imgur.com/dQXAn2B.png"/>
+
+
 ### Hi there, I'm Davide 👋
 
 <!--
