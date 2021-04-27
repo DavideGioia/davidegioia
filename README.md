@@ -1,13 +1,8 @@
-<style>
-  h1 {text-align: center;}
-</style>
-
-<img src="https://i.imgur.com/VlFqCk6.png"/>
+<img src="https://i.imgur.com/orKNBMK.png"/>
 
 <main>
-  <h1>Hi there, I'm Davide</h1>
+  <h2 align="center">Hi there, I'm Davide</h2>
 </main>
-### Hi there, I'm Davide 👋
 
 <!--
 **DavideGioia/davidegioia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
