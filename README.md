@@ -1,6 +1,12 @@
+<style>
+  h1 {text-align: center;}
+</style>
+
 <img src="https://i.imgur.com/VlFqCk6.png"/>
 
-
+<main>
+  <h1>Hi there, I'm Davide</h1>
+</main>
 ### Hi there, I'm Davide 👋
 
 <!--
