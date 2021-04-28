@@ -1,9 +1,7 @@
 <img src="https://i.imgur.com/orKNBMK.png"/>
 
 <main>
-  <a href="google.com"> 
-    <h2 align="center">Hi there, I'm Davide 👋</h2>
-  </a> 
+  <h2 align="center">Hi there, I'm Davide 👋</h2> 
 </main>
 
 <!--
