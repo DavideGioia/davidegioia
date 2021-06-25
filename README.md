@@ -13,9 +13,11 @@
   <h2>Languages I know</h2>
   <ul>
     <li>HTML</li>
-    <li>CSS</li>
+    <li>CSS with SASS and SCSS</li>
     <li>PHP</li>
-    <li>JavaScript</li>
+    <li>JavaScript with JQuery and Vue</li>
+    <li>Flutter</li>
+    <li>Basics of Java and C++</li>
   </ul>
 </main>
 
