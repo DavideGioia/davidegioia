@@ -3,7 +3,10 @@
 <main>
   <h1 align="center">Hi there, I'm Davide 👋</h1>
   <p align="center">
-    I'm 20 yo, I live in Italy and I'm trying to become a ✨ Developer and Designer ✨. I'm a coding enthusiast so I'm trying every day to learn new technologies or languages. I love making User Interfaces cool and innovative, without affecting the experience 🌈 (UI & UX). 
+    I'm 20 yo, I live in Italy and I'm trying to become a ✨ Developer and Designer ✨. I'm a coding enthusiast so I'm trying every day to learn new technologies or languages. I love making User Interfaces cool and innovative, without affecting the experience 🌈 (UI & UX).
+    
+    
+    
   </p>
   <h2>Course of study</h2>
   <ul>
