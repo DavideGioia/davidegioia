@@ -7,7 +7,7 @@
   </p>
   <h2>Course of study</h2>
   <ul>
-    <li><strong>2016-2021</strong> High School ITS Pantanelli Monnet</li>
+    <li><strong>2016-2021</strong> High School ITIS Pantanelli Monnet</li>
     <li><strong>2020-2021</strong> Academind Online Course</li>
   </ul>
   <h2>Languages I know</h2>
