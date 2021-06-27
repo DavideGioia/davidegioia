@@ -21,7 +21,7 @@
   </ul>
   <h2>⚒️ What tools do I use</h2>
   <ul>
-    <li>Visual Studio Code (I use it for everything)</li>
+    <li>Visual Studio Code (Yeah, I use it for everything! 🙈)</li>
     <li>Atom</li>
     <li>GitHub</li>
     <li>Adobe Illustrator</li>
