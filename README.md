@@ -26,6 +26,8 @@
     <li>GitHub</li>
     <li>Adobe Illustrator</li>
     <li>Adobe Photoshop</li>
+    <li>Adobe XD</li>
+    <li>Adobe Dimension</li>
     <li>Figma</li>
     <li>Bootstrap (Framework)</li>
     <li>Bulma (Framework)</li>
