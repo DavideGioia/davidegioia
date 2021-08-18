@@ -9,6 +9,7 @@
   <ul>
     <li><strong>2016-2021</strong> High School ITIS Pantanelli Monnet</li>
     <li><strong>2020-2021</strong> Academind Online Course</li>
+    <li><strong>2021-2022</strong> 42 Roma Luiss Campus</li>
   </ul>
   <h2>🏳️ What languages do I know</h2>
   <ul>
