@@ -34,9 +34,13 @@
     <li>Bulma (Framework)</li>
   </ul>
   <h2>📬 How to reach me</h2>
-  <a href="">
-    <img align="left" alt="Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+  <a href="https://www.linkedin.com/in/davide-gioia-6ab2291a0/">
+    <img align="left" alt="Linkedin" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/davide.zip/">
+    <img align="left" alt="Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  
 </main>
 
 <!--
