@@ -3,7 +3,7 @@
 <main>
   <h1 align="center">Hi there, I'm Davide 👋</h1>
   <p align="center">
-    I'm 20 yo, I live in Italy and I'm trying to become a ✨ Developer and Designer ✨. I'm a coding enthusiast so I'm trying every day to learn new technologies or languages. I love making User Interfaces cool and innovative, without affecting the experience 🌈 (UI & UX).<br><br>I'm currently learning Flutter 🥰!
+    I'm 20 yo, I live in Italy and I'm trying to become a ✨ Developer and Designer ✨. I'm a coding enthusiast so I'm trying every day to learn new technologies or languages. I love making User Interfaces cool and innovative, without affecting the experience 🌈 (UI & UX).<br><br>I'm currently working on the projects of the 42 School 🥰!
   </p>
   <h2>🌍 Experience</h2>
   <ul>
@@ -20,7 +20,7 @@
     <li>Vue.js</li>
     <li>Basics of Java and C++</li>
   </ul>
-  <h2>⚒️ What tools do I use</h2>
+  <h2>⚒️ Tech Stack</h2>
   <ul>
     <li>Visual Studio Code (Yeah, I use it for everything! 🙈)</li>
     <li>Atom</li>
@@ -33,10 +33,10 @@
     <li>Bootstrap (Framework)</li>
     <li>Bulma (Framework)</li>
   </ul>
-  <h2>📬 How to contact me</h2>
-  <ul>
-    <li></li>
-  </ul>
+  <h2>📬 How to reach me</h2>
+  <a href="">
+    <img align="left" alt="Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
 </main>
 
 <!--
