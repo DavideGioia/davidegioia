@@ -7,18 +7,18 @@
   </p>
   <h2>🌍 Experience</h2>
   <ul>
-    <li><strong>2016 - 2021</strong> High School ITIS Pantanelli Monnet</li>
-    <li><strong>2020 - 2021</strong> Academind Online Course</li>
     <li><strong>2021 - In Progress</strong> 42 Roma Luiss Campus</li>
+    <li><strong>2020 - 2021</strong> Academind Online Course</li>
+    <li><strong>2016 - 2021</strong> High School ITIS Pantanelli Monnet</li>
   </ul>
   <h2>🏳️ Skill</h2>
   <ul>
-    <li>HTML</li>
-    <li>CSS (SASS, SCSS)</li>
+    <li>C</li>
+    <li>HTML, CSS (SASS, SCSS)</li>
     <li>PHP</li>
     <li>JavaScript</li>
     <li>Vue.js</li>
-    <li>Basics of Java and C++</li>
+    <li>Basics of Java, C++</li>
   </ul>
   <h2>⚒️ Tech Stack</h2>
   <ul>
