@@ -12,7 +12,6 @@
   </ul>
   <h2>🎓 Education</h2>
   <ul>
-    <li><strong>2024 - PRESENT</strong> Computer Science Sapienza, Roma</li>
     <li><strong>2021 - 2023</strong> 42 Roma Luiss Campus</li>
     <li><strong>2016 - 2021</strong> High School ITIS Pantanelli Monnet</li>
   </ul>
